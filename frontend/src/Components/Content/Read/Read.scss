@@ -1,0 +1,34 @@
+h1{
+    padding-top: 1rem;
+    color: #FFF;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.tableCnt{
+    margin-top: 2rem;
+    background-color: #FFF;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.searchCnt{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left{
+    display: flex;
+    flex: 0.20;
+    justify-content: space-between;
+}
+
+.label{
+    color: #FFF;
+    font-size: 1.1rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#searchBox{
+    flex: 0.4;
+}
